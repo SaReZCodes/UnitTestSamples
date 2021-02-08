@@ -1,0 +1,12 @@
+H:\Sample\sample-unit-testing\SampleService\bin\Debug\net5.0\SampleService.deps.json
+H:\Sample\sample-unit-testing\SampleService\bin\Debug\net5.0\SampleService.dll
+H:\Sample\sample-unit-testing\SampleService\bin\Debug\net5.0\ref\SampleService.dll
+H:\Sample\sample-unit-testing\SampleService\bin\Debug\net5.0\SampleService.pdb
+H:\Sample\sample-unit-testing\SampleService\obj\Debug\net5.0\SampleService.csprojAssemblyReference.cache
+H:\Sample\sample-unit-testing\SampleService\obj\Debug\net5.0\SampleService.GeneratedMSBuildEditorConfig.editorconfig
+H:\Sample\sample-unit-testing\SampleService\obj\Debug\net5.0\SampleService.AssemblyInfoInputs.cache
+H:\Sample\sample-unit-testing\SampleService\obj\Debug\net5.0\SampleService.AssemblyInfo.cs
+H:\Sample\sample-unit-testing\SampleService\obj\Debug\net5.0\SampleService.csproj.CoreCompileInputs.cache
+H:\Sample\sample-unit-testing\SampleService\obj\Debug\net5.0\SampleService.dll
+H:\Sample\sample-unit-testing\SampleService\obj\Debug\net5.0\ref\SampleService.dll
+H:\Sample\sample-unit-testing\SampleService\obj\Debug\net5.0\SampleService.pdb
