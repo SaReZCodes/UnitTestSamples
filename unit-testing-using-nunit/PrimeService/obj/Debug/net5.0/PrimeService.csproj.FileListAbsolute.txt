@@ -1,0 +1,12 @@
+H:\sarez\Codes\xUnitSamples\unit-testing-using-nunit\PrimeService\obj\Debug\net5.0\PrimeService.csprojAssemblyReference.cache
+H:\sarez\Codes\xUnitSamples\unit-testing-using-nunit\PrimeService\obj\Debug\net5.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+H:\sarez\Codes\xUnitSamples\unit-testing-using-nunit\PrimeService\obj\Debug\net5.0\PrimeService.AssemblyInfoInputs.cache
+H:\sarez\Codes\xUnitSamples\unit-testing-using-nunit\PrimeService\obj\Debug\net5.0\PrimeService.AssemblyInfo.cs
+H:\sarez\Codes\xUnitSamples\unit-testing-using-nunit\PrimeService\obj\Debug\net5.0\PrimeService.csproj.CoreCompileInputs.cache
+H:\sarez\Codes\xUnitSamples\unit-testing-using-nunit\PrimeService\bin\Debug\net5.0\PrimeService.deps.json
+H:\sarez\Codes\xUnitSamples\unit-testing-using-nunit\PrimeService\bin\Debug\net5.0\PrimeService.dll
+H:\sarez\Codes\xUnitSamples\unit-testing-using-nunit\PrimeService\bin\Debug\net5.0\ref\PrimeService.dll
+H:\sarez\Codes\xUnitSamples\unit-testing-using-nunit\PrimeService\bin\Debug\net5.0\PrimeService.pdb
+H:\sarez\Codes\xUnitSamples\unit-testing-using-nunit\PrimeService\obj\Debug\net5.0\PrimeService.dll
+H:\sarez\Codes\xUnitSamples\unit-testing-using-nunit\PrimeService\obj\Debug\net5.0\ref\PrimeService.dll
+H:\sarez\Codes\xUnitSamples\unit-testing-using-nunit\PrimeService\obj\Debug\net5.0\PrimeService.pdb
